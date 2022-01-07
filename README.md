@@ -3,7 +3,7 @@ Hello, this is Reversing Game Rust...
 
 Use this for Write Cheat on C++ or another Coding Code...
 
-## Programs, which I Use for Reversing this Gane
+## Programs, which I Use for Reversing this Game
 
 [DnSpy](https://github.com/dnSpy/dnSpy) - Reversing Anyone Game or Programs!!!
 
