@@ -13,4 +13,4 @@ Use this for Write Cheat on C++ or another Programming Code...
 
 [DonationAlerts](https://www.donationalerts.com/r/glebyoutuber)
 
-[Ko-Fi](https://ko-fi.com/glebyoutube)
+[Ko-Fi](https://ko-fi.com/glebyoutuber)
